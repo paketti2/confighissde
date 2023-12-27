@@ -1,0 +1,10 @@
+interface = "wlan0"
+long_uptime = true
+long_shell = false
+long_kernel = false
+current_shell = true
+physical_cores = false 
+memory_percentage = true
+disk_space_percentage = false
+theme = "Gentoo"
+show = ["Host", "Kernel", "Distribution", "WindowManager", "Shell", "Processor", "GPU"]

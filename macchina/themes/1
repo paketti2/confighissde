@@ -1,0 +1,25 @@
+hide_ascii = false
+prefer_small_ascii = true
+key_color = "White"
+separator_color = "Red"
+separator = "*"
+[custom_ascii]
+path = "~/.ascii/gentoo.txt"
+color = "Red"
+
+
+[bar]
+symbol_open     = '['
+symbol_close    = ']'
+hide_delimiters = true
+visible         = true
+
+[keys]
+host = "host"
+kernel = "kernel"
+os = "os"
+wm = "wm"
+distro = "distro"
+shell = "shell"
+cpu = "cpu"
+gpu = "gpu"
